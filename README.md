@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi, I'm Sagarika Paul 👋
 
-<!--
-**sagarikapaul21-sys/sagarikapaul21-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Banking Transformation | Operational Risk | Business Analysis
 
-Here are some ideas to get you started:
+Experienced banking professional with 12+ years at Indian Overseas Bank specializing in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Operational Risk
+- Banking Transformation
+- Credit Risk
+- Core Banking (Finacle)
+- AML/KYC
+- Business Analysis
+- SQL
+- AI & Analytics
+
+## Featured Projects
+
+🏦 SPBANKLENS-360
+
+AI-powered enterprise banking operations platform.
+
+📊 Credit Risk Analytics
+
+Predictive credit risk modeling using machine learning.
+
+⚙ Regulatory Change Intelligence Platform
+
+Business Analysis and Regulatory Change Management.
+
+💻 Fraud Risk SQL Analytics
+
+SQL-based fraud detection and operational risk analytics.
+
+## Certifications
+
+- MIT Professional Education – No Code AI & Machine Learning
+- JAIIB
+- CAIIB
+
+Currently exploring Banking Technology, AI and Digital Transformation.
+
+
